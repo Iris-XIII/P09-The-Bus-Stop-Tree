@@ -1,4 +1,4 @@
-<h1>Course Project: Workout Builder</h1>
+<h1>Course Project: The Bus Stop Tree</h1>
 
 <h2>Description</h2>
 This project utilized Madison Metro's bus schedule data API to construct a Binary Search Tree that organizes buses based on their arrival times at specific bus stops. Key components include implementing the Comparable<Bus> interface for bus comparison, designing the BusStopTree class to manage the BST structure, and creating the BusFilteredIterator class to filter buses based on destination stops. This project also included rigorous testing and adherence to coding standards, ensuring the program's reliability and maintainability.
